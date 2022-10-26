@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: 20200748_r1
+- file: 20200748_r2
+- file: 20200748_r3
+- file: 20200748_r4
+- file: 20200748_r5
+
+
+
+
+
+

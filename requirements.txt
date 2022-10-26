@@ -1,0 +1,8 @@
+jupyter-book
+matplotlib
+ghp-import
+numpy
+ipwidgets
+sympy
+pandas
+causalgraphicalmodels
